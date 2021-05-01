@@ -1,6 +1,6 @@
 // Write your code here
 
-const num1 = 2, num2 = 31;
+const num1 = 2, num2 = 31, num;
 
 const multiply = num1 * num2
 
