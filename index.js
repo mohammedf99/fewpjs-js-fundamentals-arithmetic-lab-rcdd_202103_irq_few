@@ -11,3 +11,6 @@ function mod(num3, num4) {
   const mod = num3 % num4;
 }
 
+function max(num) {
+  const max = Math.max(num);
+}
