@@ -1,9 +1,9 @@
 // Write your code here
 
 
-function multiply(num1, num2) {
-  const multiply = num1 * num2;
-  return multiply;
+const multiply = (num1, num2) => {
+  return num1 * num2;
+  
 }
 
 const random = Math.floor((Math.random() * 10) + 1);
