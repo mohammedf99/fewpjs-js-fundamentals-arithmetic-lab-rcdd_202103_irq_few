@@ -1,7 +1,10 @@
 // Write your code here
 
 
-const multiply = 8 * 8;
+function multiply(num1, num2) {
+  const multiply = num1 * num2;
+  return multiply;
+}
 
 const random = Math.floor((Math.random() * 10) + 1);
 
